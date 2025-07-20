@@ -13,7 +13,7 @@
 
 ###  🛠️ Tools Used<br>
     Power BI for dashboard development.<br>
-    Microsoft Excel or Power Query for preprocessing.<br>
+    Power Query for preprocessing.<br>
 
 ### 💡 Future Improvements
     •    Add filtering by region or customer segment.<br>
